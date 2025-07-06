@@ -1,5 +1,5 @@
 // SOIX 5.1 TEST (No Jesse branding, pure engine-level test)
-async function startSoixTest() {
+async function main_sound() {
   // Start Tone.js audio context
   await Tone.start();
   console.log("🧪 SOIX Test Started");
